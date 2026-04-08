@@ -46,10 +46,6 @@ Full-Stack Developer and AI Engineer with hands-on experience shipping productio
 - Elevated codebase quality to **95% standards** across a 5-member Agile team using component-based architecture
 - Resolved 50+ complex frontend issues, directly improving merchant and customer satisfaction
 
-**Software Developer Intern** — *Planfirma Technologies*
-- Contributed to full-stack feature development in a professional software environment
-- Worked across frontend and backend layers, gaining cross-functional engineering experience
-
 ---
 
 ## Featured Projects
