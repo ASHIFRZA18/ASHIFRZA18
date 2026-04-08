@@ -1,41 +1,102 @@
-<h1 align="center">Hi 👋, I'm Ashif Rza</h1>
-<h3 align="center">Full-Stack Developer & AI/ML Engineer from Ranchi, India</h3>
-<h4 align="center">React · Node.js · Python · MongoDB · Flask · OpenAI</h4>
+<div align="center">
 
-<p align="center">
+<h1>Ashif Rza</h1>
+<h3>Full-Stack Developer & AI Engineer</h3>
+<p>
+  Building production-grade applications with React · Node.js · Python · MongoDB · Flask
+</p>
+
+<p>
   <a href="https://www.ashifrza.in" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
-  </a>
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>&nbsp;
   <a href="https://linkedin.com/in/ashifrza" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/ASHIFRZA18" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>&nbsp;
   <a href="mailto:ashifrza18@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://github.com/ASHIFRZA18">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ASHIFRZA18&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=ASHIFRZA18&style=flat-square&color=0e75b6" alt="profile views"/>
+
+</div>
 
 ---
 
-### 🚀 About Me
+## About
 
-- 🔭 &nbsp;Building **AI/ML-powered full-stack applications** using React, Node.js & Python
-- 💼 &nbsp;Ex **Frontend Developer Intern @ Syntechxhub** | Ex **Software Developer Intern @ Planfirma Technologies**
-- 🎓 &nbsp;**B.Sc. Mathematics** — Ranchi University (CGPA: 7.91)
+Full-Stack Developer and AI Engineer with hands-on experience shipping production applications across fintech, imaging, and AI domains. I architect end-to-end solutions — from React frontends to Flask ML backends — with a consistent focus on performance, scalability, and measurable impact.
+
+- 📍 &nbsp;Based in **Bengaluru, Karnataka** (originally from Ranchi, Jharkhand)
+- 🌐 &nbsp;Portfolio → [ashifrza.in](https://www.ashifrza.in)
 - 🏆 &nbsp;**Google Winter of Code — Runner Up**
-- 🌐 &nbsp;Portfolio: [ashifrza.in](https://www.ashifrza.in)
-- 📬 &nbsp;Reach me at **ashifrza18@gmail.com**
-- ⚡ &nbsp;Fun fact: My stock predictor hits **78% accuracy** — the market still surprises me though!
+- 🔭 &nbsp;Currently building **HireEdge** — an AI-powered interview preparation platform
+- 📬 &nbsp;Open to **full-time roles & internships** in Full-Stack / AI / ML engineering
 
 ---
 
-### 🛠️ Tech Stack
+## Experience
+
+**Frontend Developer Intern** — *Syntechxhub* &nbsp;`Nov 2025 – Dec 2025`
+- Architected 15+ production-ready React components with Tailwind CSS, cutting page load time by **40% (2.3s)**
+- Elevated codebase quality to **95% standards** across a 5-member Agile team using component-based architecture
+- Resolved 50+ complex frontend issues, directly improving merchant and customer satisfaction
+
+**Software Developer Intern** — *Planfirma Technologies*
+- Contributed to full-stack feature development in a professional software environment
+- Worked across frontend and backend layers, gaining cross-functional engineering experience
+
+---
+
+## Featured Projects
+
+### 🤖 HireEdge — AI Interview Preparation Platform
+> React.js · Node.js · Express.js · MongoDB · JWT · REST APIs
+
+An end-to-end AI-powered platform that helps candidates prepare for technical interviews with real-time feedback, session management, and adaptive question generation.
+
+- Built secure authentication with **JWT** and session persistence
+- Designed RESTful API architecture with Express.js and MongoDB
+- Implemented CORS-safe communication between React frontend and Node.js backend
+
+🔗 [github.com/ASHIFRZA18/HireEdge](https://github.com/ASHIFRZA18/HireEdge)
+
+---
+
+### 📈 AI Stock Prediction Newsletter
+> Python · Flask · React · Node.js · REST APIs · Sentiment Analysis
+
+Full-stack financial intelligence platform aggregating real-time data from **500+ news sources**, applying ML-based sentiment analysis to predict stock movement.
+
+- Achieved **78% prediction accuracy** using custom sentiment analysis model
+- Processed **1,000+ daily API requests** across React frontend and Node.js microservices
+- Flask ML backend handles real-time inference with low-latency response
+
+---
+
+### 🎨 AI Image Generation & Classification Platform
+> OpenAI DALL-E API · Flask · React · MongoDB · OpenCV · CNN
+
+Production-grade platform combining generative AI with computer vision for image creation and celebrity recognition.
+
+- Supported **200+ concurrent users** with JWT-secured endpoints
+- Managed **5,000+ images** in MongoDB with efficient indexing
+- Custom CNN model with **92% classification accuracy** using OpenCV preprocessing
+
+---
+
+### 😶 Real-Time Emotion Detection System
+> Python · OpenCV · Deep Learning · TensorFlow
+
+Live webcam-based system that detects and classifies human emotions in real-time using a custom-trained deep learning model.
+
+---
+
+## Tech Stack
 
 **Languages**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -56,9 +117,11 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 
-**AI / Cloud**
+**AI & Cloud**
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
 
 **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -67,51 +130,33 @@
 
 ---
 
-### 🏆 Featured Projects
+## Certifications & Simulations
 
-| Project | Stack | Highlights |
-|---------|-------|------------|
-| 🤖 AI Stock Prediction Newsletter | Python · Flask · React · Node.js | 78% ML accuracy · 500+ news sources · 1K+ daily requests |
-| 🎨 AI Image Generation Platform | OpenAI DALL-E · Flask · React · MongoDB | 92% CNN accuracy · 200+ concurrent users · 5K+ images |
-| 😶 Real-Time Emotion Detection | Python · OpenCV · Deep Learning | Live webcam emotion recognition using custom model |
-
----
-
-### 📜 Certifications
-
-| Badge | Course | Platform | Date |
-|-------|--------|----------|------|
-| 🟡 | CSS, JavaScript & Python Complete Course | Udemy | Nov 2025 |
-| 🟠 | AWS Essential Training for Developers | LinkedIn Learning | Dec 2025 |
-| 🟣 | Generative AI for Beginners | Simplilearn SkillUP | Oct 2025 |
+| Credential | Issuer | Skills | Date |
+|-----------|--------|--------|------|
+| 🔷 JPMorgan Chase — Software Engineering Job Simulation | Forage | Builds tool, SQL, +5 skills | Apr 2026 |
+| 🔶 Deloitte Australia — Data Analytics Job Simulation | Forage | Python, Spreadsheets, +3 skills | Apr 2026 |
+| 🟡 CSS, JavaScript & Python Complete Course | Udemy | JS, Python, CSS | Nov 2025 |
+| 🟠 AWS Essential Training for Developers | LinkedIn Learning | EC2, Lambda, AWS | Dec 2025 |
+| 🟣 Generative AI for Beginners | Simplilearn SkillUP | GenAI fundamentals | Oct 2025 |
 
 ---
 
-### 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ASHIFRZA18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASHIFRZA18&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ASHIFRZA18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASHIFRZA18&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ASHIFRZA18&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ASHIFRZA18&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-### 🌐 Connect with me
-
-<p align="left">
-<a href="https://linkedin.com/in/ashifrza" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-<a href="https://github.com/ASHIFRZA18" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" /></a>
-<a href="https://www.ashifrza.in" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" height="30" width="40" /></a>
-</p>
-
----
-
-<p align="center">
-  <i>"Code is not just syntax — it's the bridge between ideas and impact."</i>
-<br/><br/>
-  ⭐ If you found my work helpful, do give a star to my repos! ⭐
-</p>
+<div align="center">
+  <i>"Ship fast. Measure impact. Iterate."</i>
+  <br/><br/>
+  <b>Open to full-time roles in Full-Stack / AI Engineering — Bengaluru & Remote</b>
+</div>
