@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Ashif Rza</h1>
+<h1>ASHIF RZA</h1>
 <h3>Full-Stack Developer & AI Engineer</h3>
 <p>
   Building production-grade applications with React · Node.js · Python · MongoDB · Flask
